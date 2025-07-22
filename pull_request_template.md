@@ -8,6 +8,9 @@ Décrivez brièvement ce que ce Pull Request implique. Quelles fonctionnalités 
 - [ ] Ajoutez ici le deuxième point d'implémentation ou de changement.
 - [ ] Continuez à lister tous les changements pertinents apportés par ce PR.
 
+## Comment vérifier le comportement ?
+Donner des exemples de pages précis ou de comportements à reproduire pour valider la fonctionnalité
+
 ## Types d'utilisateurs affectés
 Cochez les types d'utilisateurs qui seront affectés par ce changement.
 - [ ] Équipe marketing
