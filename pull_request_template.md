@@ -23,3 +23,4 @@ Donner des exemples de pages précis ou de comportements à reproduire pour vali
   - [ ] Les données structurées sont à jour
   - [ ] Les assets appelés sur ma page ont étés optimisés
 - [ ] J'estime avoir besoin d'une relecture de code
+- [ ] Les interlocuteurs clés sont au courant de l'avancement de cette PR et du calendrier de déploiement
