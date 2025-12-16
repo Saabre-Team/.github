@@ -21,6 +21,6 @@ Donner des exemples de pages précis ou de comportements à reproduire pour vali
   - [ ] Mes modifications sont indexables
   - [ ] Les méta données _( meta title, description, og:... )_ ont étées vérifiées et validées
   - [ ] Les données structurées sont à jour
-  - [ ] Les assets appelés sur ma page ont étés optimisés
+  - [ ] Les assets appelés sur ma page ont été optimisés
 - [ ] J'estime avoir besoin d'une relecture de code
 - [ ] Les interlocuteurs clés sont au courant de l'avancement de cette PR et du calendrier de déploiement
