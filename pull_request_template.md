@@ -1,29 +1,26 @@
 ## Description
-🎫 Ticket Asana : Ajoutez ici le ticket Asana correspondant s'il existe
+🎫 [Nom de la tâche](lien sur asana)
 
-Décrivez brièvement ce que ce Pull Request implique. Quelles fonctionnalités ou problèmes sont résolus ?
+### Décrivez brièvement ce que cette PR implique
+- Pourquoi on fait cette tâche, quels sont les résultats attendus ?
+- Qui sont les interlocuteurs clés dans le cadre de cette tâche ?
+- Quelles fonctionnalités ou problèmes sont résolus ?
+- Quelles sont les URLs ou écrans impacté(e)s ?
 
-## Ce que fait cette PR
-- [ ] Ajoutez ici le premier point d'implémentation ou de changement.
-- [ ] Ajoutez ici le deuxième point d'implémentation ou de changement.
-- [ ] Continuez à lister tous les changements pertinents apportés par ce PR.
+### Comment vérifier le comportement ?
+Donner des exemples de pages précis ou de comportements à reproduire pour valider la fonctionnalité.
 
-## Comment vérifier le comportement ?
-Donner des exemples de pages précis ou de comportements à reproduire pour valider la fonctionnalité
-
-## Types d'utilisateurs affectés
-Cochez les types d'utilisateurs qui seront affectés par ce changement.
-- [ ] Équipe marketing
-- [ ] Utilisateur final
-- [ ] Journaliste
-- [ ] Équipe produit
-- [ ] Développeur
-- [ ] Bot
-
-## Tests
-Détaillez les types de tests réalisés (tests unitaires, tests d'intégration, tests manuels).
-Si possible, incluez des captures d'écran des résultats des tests ou des liens vers les résultats dans un outil de CI/CD.
-
-## Instructions pour la revue de code
-Donnez des instructions spécifiques aux réviseurs sur ce qu'ils doivent se concentrer pendant la revue de code.
-Mentionnez les parties complexes ou les zones où vous souhaitez obtenir des retours spécifiques.
+### Process & vérifications déjà effectuées
+- [ ] J'ai factorisé mon code, de manière à avoir le moins de LoC possible
+- [ ] J'ai relu ma PR et vérifié le fonctionnement sur l'environnement de preview
+- [ ] La modification impacte le backend
+  - [ ] J'ai vérifié les interactions avec le cache
+  - [ ] Le temps de réponse du backend est cohérent avec le volume de pages vues attendu
+- [ ] La modification impacte des pages publiques
+  - [ ] J'ai fait les vérifications SEO - [📚 Manuel](https://www.notion.so/brakson/Template-Checklist-MEP-Recettages-181b3526b6fb8035bb5cc5d9910d9ad9?v=fed687df60bb44329025e96e53937984&source=copy_link)
+  - [ ] Mes modifications sont indexables
+  - [ ] Les méta données _( meta title, description, og:... )_ ont étées vérifiées et validées
+  - [ ] Les données structurées sont à jour
+  - [ ] Les assets appelés sur ma page ont été optimisés
+- [ ] J'estime avoir besoin d'une relecture de code
+- [ ] Les interlocuteurs clés sont au courant de l'avancement de cette PR et du calendrier de déploiement
