@@ -15,7 +15,7 @@ Donner des exemples de pages précis ou de comportements à reproduire pour vali
 - [ ] J'ai vérifié manuellement la PR
 - [ ] La modification impacte le backend
   - [ ] J'ai vérifié les interactions avec le cache
-  - [ ] Le temps de réponse du backend est cohérent avec le volume de page vue attendu
+  - [ ] Le temps de réponse du backend est cohérent avec le volume de pages vues attendu
 - [ ] La modification impacte des pages publiques
   - [ ] J'ai fait les vérifications SEO - [📚 Manuel](https://www.notion.so/brakson/Template-Checklist-MEP-Recettages-181b3526b6fb8035bb5cc5d9910d9ad9?v=fed687df60bb44329025e96e53937984&source=copy_link)
   - [ ] Mes modifications sont indexables
