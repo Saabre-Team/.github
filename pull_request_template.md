@@ -12,7 +12,7 @@ Donner des exemples de pages précis ou de comportements à reproduire pour vali
 
 ### Process & vérifications déjà effectuées
 - [ ] J'ai factorisé mon code, de manière à avoir le moins de LoC possible
-- [ ] J'ai vérifié manuellement la PR
+- [ ] J'ai relu ma PR et vérifié le fonctionnement sur l'environnement de preview
 - [ ] La modification impacte le backend
   - [ ] J'ai vérifié les interactions avec le cache
   - [ ] Le temps de réponse du backend est cohérent avec le volume de pages vues attendu
