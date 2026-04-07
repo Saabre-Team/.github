@@ -1,11 +1,12 @@
-## Description
 🎫 [Nom de la tâche](lien sur asana)
 
+### Description
+Détailler brièvement ce qui est fait dans la PR
+
 ### Décrivez brièvement ce que cette PR implique
-- Pourquoi on fait cette tâche, quels sont les résultats attendus ?
-- Qui sont les interlocuteurs clés dans le cadre de cette tâche ?
-- Quelles fonctionnalités ou problèmes sont résolus ?
-- Quelles sont les URLs ou écrans impacté(e)s ?
+- Résultats attendus : 
+- Interlocuteurs : 
+- Points d'attention : 
 
 ### Comment vérifier le comportement ?
 Donner des exemples de pages précis ou de comportements à reproduire pour valider la fonctionnalité.
@@ -19,7 +20,7 @@ Donner des exemples de pages précis ou de comportements à reproduire pour vali
 - [ ] La modification impacte des pages publiques
   - [ ] J'ai fait les vérifications SEO - [📚 Manuel](https://www.notion.so/brakson/Template-Checklist-MEP-Recettages-181b3526b6fb8035bb5cc5d9910d9ad9?v=fed687df60bb44329025e96e53937984&source=copy_link)
   - [ ] Mes modifications sont indexables
-  - [ ] Les méta données _( meta title, description, og:... )_ ont étées vérifiées et validées
+  - [ ] Les méta données _( meta title, description, og:... )_ ont été vérifiées et validées
   - [ ] Les données structurées sont à jour
   - [ ] Les assets appelés sur ma page ont été optimisés
 - [ ] J'estime avoir besoin d'une relecture de code
